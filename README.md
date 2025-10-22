@@ -27,4 +27,4 @@ This project demonstrates:
    
 2. run the game: main.py  
 
-3.Use the Up Arrow Key ⬆️ to move the turtle up.
+3. Use the Up Arrow Key ⬆️ to move the turtle up.
