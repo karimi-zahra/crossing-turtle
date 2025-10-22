@@ -23,8 +23,8 @@ This project demonstrates:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/karimi-zahra/python-bootcamp.git
+   git clone https://github.com/karimi-zahra/crossing-turtle.git
    
-2.Navigate to the project folder and run the game: main.py  
+2. run the game: main.py  
 
 3.Use the Up Arrow Key ⬆️ to move the turtle up.
